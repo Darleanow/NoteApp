@@ -12,8 +12,7 @@ class NoteActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             NoteAppTheme {
-
-                }
+                
             }
         }
     }
