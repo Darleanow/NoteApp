@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ynov.noteapp"
+    namespace = "com.esgi.noteapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.ynov.noteapp"
+        applicationId = "com.esgi.noteapp"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
